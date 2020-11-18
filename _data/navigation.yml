@@ -1,7 +1,9 @@
 # main links
 main:
   - title: "Categories"
-    url: /404.html
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
   - title: "About"
     url: /about/
   # - title: "Sample Posts"
