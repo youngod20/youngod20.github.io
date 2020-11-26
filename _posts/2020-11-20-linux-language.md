@@ -19,3 +19,4 @@ tags:
 * echo: 큰 텍스트 출력
 * sudo: root 명령
 * tar: 파일 압축
+* zip -r {파일명}.zip ./*: 하위 경로 전체 zip파일 만들기
