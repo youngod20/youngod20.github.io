@@ -9,9 +9,9 @@ tags:
 ---
 
 # Data Types    
-## 기본 데이터 타입(Primitive Data Type)        
-#### 8가지 기본 데이터 타입         
-<small> 
+## 기본 데이터 타입(Primitive Data Type)            
+    
+<small> 8가지 기본 데이터 타입         
 1. byte         
 2. short          
 3. int (1,2,3, 등)          
