@@ -11,16 +11,17 @@ tags:
 # Data Types    
 ## 기본 데이터 타입(Primitive Data Type)            
     
-<small> 8가지 기본 데이터 타입         
-<small> 1. byte         
-<small> 2. short          
-<small> 3. int (1,2,3, 등)          
-<small> 4. long (1.0, 2.5, 3.9 등)            
-<small> 5. float             
-<small> 6. double           
-<small> 7. boolean              
-<small> 8. char              
-<small> 이 외 중요한 데이터 타입은 String class로, 객체는 변경 불가능한 문자열임
+<small> 
+8가지 기본 데이터 타입         
+ 1. byte         
+ 2. short          
+ 3. int (1,2,3, 등)          
+ 4. long (1.0, 2.5, 3.9 등)            
+ 5. float             
+ 6. double           
+ 7. boolean              
+ 8. char              
+ 이 외 중요한 데이터 타입은 String class로, 객체는 변경 불가능한 문자열임
     
              
 ## Scanner
