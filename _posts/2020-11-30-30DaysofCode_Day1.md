@@ -59,7 +59,7 @@ ex. a = 1, b =2, System.out.println(a + b) -> 3
     
 
 ## 문제 풀이
-​​``` python      
+​​``` 
 a = int(input())    
 b = float(input())    
 c = str(input())    
