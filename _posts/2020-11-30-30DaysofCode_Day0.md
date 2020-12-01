@@ -66,7 +66,7 @@ Scanner 사용시 stdin으로 부터 읽는 방법은 다음과 같음
 ​```
 Scanner scan = new Scanner(System.in);                    
 ​```
-                    
+                  
 <small>System.in으로부터 읽어들일 때 new Scanner object를 생성했고, scan이라는 이름으로 접근이 가능함                    
 stdin으로 부터 정보를 읽기위해 너의 scanner objectdp Scanner의 methods를 적용하는 것이 필요함                    
 </small>                    
